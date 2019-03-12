@@ -1,0 +1,16 @@
+{
+  "extends": [
+    "plugin:vue/recommended"
+  ],
+  "rules": {},
+  "globals": {
+    "document": true,
+    "window": true,
+    "it": true,
+    "cy": true,
+    "describe": true,
+    "alert": true,
+    "test": true,
+    "expect": true
+  }
+}

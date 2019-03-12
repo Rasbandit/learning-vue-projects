@@ -1,0 +1,21 @@
+{
+  "eslint.enable": false,
+  "editor.formatOnSave": false,
+  "editor.fontLigatures": false,
+  "html-css-class-completion.enableEmmetSupport": false,
+  "html.autoClosingTags": false,
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "files.autoSave": "onFocusChange",
+  "javascript.suggest.completeFunctionCalls": false,
+  "javascript.suggest.paths": true,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "breadcrumbs.enabled": false,
+  "editor.minimap.enabled": false,
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.folding": false,
+  "editor.glyphMargin": false
+}

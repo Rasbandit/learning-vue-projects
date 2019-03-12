@@ -1,0 +1,25 @@
+{
+  "extends": [
+    "plugin:vue/recommended"
+  ],
+  "rules": {
+    "vue/html-self-closing": 0,
+    "no-new": 0,
+    "import/no-unresolved": [
+      2,
+      {
+        "commonjs": true
+      }
+    ]
+  },
+  "globals": {
+    "document": true,
+    "window": true,
+    "it": true,
+    "cy": true,
+    "describe": true,
+    "alert": true,
+    "test": true,
+    "expect": true
+  }
+}
